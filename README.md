@@ -2,6 +2,11 @@
 A custom physics-based character controller and rolling mechanic for Roblox.
 
 
+
+https://github.com/user-attachments/assets/8791e93a-407f-4398-94d0-70d6ff0ea29c
+
+
+
 # Custom Physics & Rolling Mechanic Controller
 
 A robust, physics-based character controller built for Roblox, designed to replace the default Humanoid mechanics with smooth, zero-delay interactions.
